@@ -1,0 +1,13 @@
+{
+  "name": "resize-image",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Resize image",
+  "license": "MIT",
+  "scripts": {
+    "build": "nest build"
+  },
+  "dependencies": {
+    "sharp": "^0.25.4"
+  }
+}
